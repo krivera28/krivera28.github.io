@@ -5,7 +5,22 @@ title: Kaylani Rivera
 
 # Hi, I'm Kaylani!
 
-I'm a student at the University of Illinois pursuing my Bachelor's in Computer Science with a minor in Game Studies & Design. As a Latina from Chicago, my passion is to increase diversity in video games and the field of Computer Science as a whole. Nationally recognized for my aspirations in technology, I aim to make my dreams a reality by being the first in my family to graduate from college. Feel free to reach out to chat!
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+
+    <div style="flex: 1; max-width: 150px;">
+        <img src="https://krivera28.github.io/Kaylani_Rivera_Headshot.jpeg" alt="Kaylani Rivera Headshot" style="width: 100%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    </div>
+
+    <div style="flex: 2; min-width: 250px;">
+        <h1>Hi, I'm Kaylani!</h1>
+        <p>
+            I'm a student at the University of Illinois pursuing my Bachelor's in Computer Science with a minor in Game Studies & Design. As a Latina from Chicago, my passion is to increase diversity in video games and the field of Computer Science as a whole. Nationally recognized for my aspirations in technology, I aim to make my dreams a reality by being the first in my family to graduate from college. Feel free to reach out to chat!
+        </p>
+    </div>
+
+</div>
+
+---
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
@@ -27,7 +42,7 @@ I'm a student at the University of Illinois pursuing my Bachelor's in Computer S
     </button>
 </a>
 
-<a href="https://<your-username>.github.io/Kaylani_Rivera_Resume.pdf" style="text-decoration: none;">
+<a href="https://krivera28.github.io/Kaylani_Rivera_Resume.pdf" style="text-decoration: none;">
     <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         My Résumé
     </button>
