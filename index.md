@@ -96,6 +96,7 @@ As CSHS Project Manager, I spearheaded the organization of NCP's first annual Ha
 user engagement and productivity
 - Implemented a quantifiable progress tracking system, utilizing data visualization to provide users with tangible feedback
 - Engineered a flexible task categorization structure, allowing for customizable ”quests” to accommodate diverse lifestyles
+  
 <a href="https://github.com/krivera28/gamify" style="text-decoration: none;">
     <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         View Project
@@ -106,6 +107,7 @@ user engagement and productivity
 - Used AI to create custom music from text prompts and delivers personalized song recommendations based on your unique listening history and preferences, making music discovery effortless
 - Enhanced traditional music streaming apps with built-in music creation tools, allowing listeners to seamlessly transition from enjoying music to creating their own
 - Developed and led by a Women in CS team which I was the project manager of from initial concept through final presentation, demonstrating innovative integration of AI technology in music streaming
+  
 <a href="https://github.com/krivera28/melodify-my-copy" style="text-decoration: none;">
     <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         View Project
@@ -116,6 +118,7 @@ user engagement and productivity
 - Utilized Java to make a gambling simulator where players wager money to guess randomly generated winning numbers, with their balance updating in real-time based on their success or failure
 - Featured an innovative shuffle mechanic that allows players to reshuffle numbers at will, while automatically triggering a shuffle after 10 rounds to maintain game fairness
 - Incorporated strategic gameplay elements with clear win/lose conditions, ending when players either deplete their funds or reach a predetermined winning threshold
+  
 <a href="https://replit.com/@krivera30/Roottech-Gambling-Game-" style="text-decoration: none;">
     <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         View Project
@@ -125,6 +128,7 @@ user engagement and productivity
 ### **Go Fish Simulator** - Python
 - Created an AI algorithm for bot players, employing array-based data structures and search algorithms to mimic human-like decision-making in card selection and matching
 - Devised an efficient card management system, utilizing custom functions to parse and manipulate card attributes for streamlined gameplay and scoring mechanisms
+  
 <a href="[https://github.com/krivera28](https://replit.com/@krivera30/Roottech-Final-Project#main.py)" style="text-decoration: none;">
     <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         View Project
