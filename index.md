@@ -15,37 +15,36 @@ title: Kaylani Rivera
         <p>
             I'm a student at the University of Illinois pursuing my Bachelor's in Computer Science with a minor in Game Studies & Design. As a Latina from Chicago, my passion is to increase diversity in video games and the field of Computer Science as a whole. Nationally recognized for my aspirations in technology, I aim to make my dreams a reality by being the first in my family to graduate from college. Feel free to reach out to chat!
         </p>
-    </div>
+
+    <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    
+    <a href="mailto:kaykayr2882@gmail.com" style="text-decoration: none;">
+        <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+            Email
+        </button>
+    </a>
+    
+    <a href="https://linkedin.com/in/kaylani-rivera" style="text-decoration: none;">
+        <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+            LinkedIn
+        </button>
+    </a>
+    
+    <a href="https://github.com/krivera28" style="text-decoration: none;">
+        <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+            GitHub
+        </button>
+    </a>
+    
+    <a href="https://krivera28.github.io/Kaylani_Rivera_Resume.pdf" style="text-decoration: none;">
+        <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+            My Résumé
+        </button>
+    </a>
 
 </div>
 
----
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-
-<a href="mailto:kaykayr2882@gmail.com" style="text-decoration: none;">
-    <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
-        Email
-    </button>
-</a>
-
-<a href="https://linkedin.com/in/kaylani-rivera" style="text-decoration: none;">
-    <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
-        LinkedIn
-    </button>
-</a>
-
-<a href="https://github.com/krivera28" style="text-decoration: none;">
-    <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
-        GitHub
-    </button>
-</a>
-
-<a href="https://krivera28.github.io/Kaylani_Rivera_Resume.pdf" style="text-decoration: none;">
-    <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
-        My Résumé
-    </button>
-</a>
+    </div>
 
 </div>
 
