@@ -3,11 +3,10 @@ layout: home
 title: Kaylani Rivera's Portfolio
 ---
 
-# Kaylani Rivera's Portfolio
 
 Hi! I'm **Kaylani**, a Latina from Chicago with a passion for increasing **diversity** in video games and the field of **Computer Science** as a whole. Nationally recognized for my aspirations in technology, I aim to make my dreams a reality by being the **first** in my family to graduate from college.  
 
----
+
 
 ## **Contact Me**
 
@@ -39,7 +38,9 @@ Hi! I'm **Kaylani**, a Latina from Chicago with a passion for increasing **diver
 
 </div>
 
+
 ---
+
 
 ## **Education**
 **University of Illinois Urbana-Champaign**  
@@ -50,25 +51,29 @@ Expected Graduation: May 2027
 - Clubs: HackIllinois, Women in Computer Science, Association for Computing Machinery, Adventure Club
 - Honors: James Scholar, President’s Award Program Scholarship, State Farm Computer Science Scholarship
 
+
 ---
+
 
 ## **Experience**
 ### **Co-Director**  
-**[HackIllinois]** — University Of Illinois Urbana-Champaign
+**HackIllinois** — University Of Illinois Urbana-Champaign
 _2024 - current_  
 As the Co-Director of HackIllinois, the largest student-run hackathon in the Midwest, I lead the planning and execution of this event by managing over 50 staff members in coordinating various event aspects for over 800 participants. To accomplish this, I foster a sense of community among staff through team-building activities to ensure successful collaboration. I am also responsible for managing the event budget, determining the effective allocation of resources to maximize the success of the event! 
 
 ### **Teaching Assistant**  
-**[Summer Immersion Program]** — Girls Who Code
+**Summer Immersion Program** — Girls Who Code
 _Summer 2024_  
 As a Teaching Assistant for the Girls Who Code Summer Immersion Program, I managed 60 students in my classroom and evaluated student work daily, sharing personalized constructive feedback to support their growth and understanding of game development concepts. I also provided individualized support and mentorship to students, addressing their questions and concerns both during class and asynchronously to foster a positive and inclusive learning environment. Additionally, I facilitated breakout rooms, provided guidance during advisory, and hosted student hours to enhance their learning!
 
 ### **Project Manager**  
-**[Computer Science Honor Society]** — Northside College Prep
+**Computer Science Honor Society** — Northside College Prep
 _2021 - 2023_  
 As CSHS Project Manager, I spearheaded the organization of NCP's first annual Hackathon by delegating tasks to committees in charge of website development, community outreach, and event planning while personally managing food, activities, and guest speakers. I also orchestrated monthly meetings to monitor progress of committees and establish deadlines. For the CS community as a whole, I developed weekly CS club meeting and CS tutoring schedule based on availability of club leaders, tutors, and sponsors.
 
+
 ---
+
 
 ## **Projects**
 ### See my programming skills in action through my passion projects, ranging from fun games to play in your downtime to ways to organize your life!
@@ -105,7 +110,9 @@ human-like decision-making in card selection and matching
 streamlined gameplay and scoring mechanisms
 [View Project](#https://replit.com/@krivera30/Roottech-Final-Project#main.py)
 
+
 ---
+
 
 ## **Skills**
 - **Programming Languages:** C++, Java, Python, HTML/CSS, JavaScript, LaTeX, Verilog, Assembly  
