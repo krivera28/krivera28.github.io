@@ -3,6 +3,21 @@ layout: default
 title: Kaylani Rivera
 ---
 
+<style>
+    body {
+        background-color: #4B0082; 
+        color: white; 
+    }
+
+    a {
+        color: #BA55D3; 
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+</style>
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
