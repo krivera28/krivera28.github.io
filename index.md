@@ -29,10 +29,22 @@ title:
         text-decoration: underline;
     }
 
+    .gray-block {
+    background-color: #2d2d2d;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 10;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.5); 
+}
+
     
 </style>
 
-<br>
+<div class="gray-block"></div>
 
 <br>
 
@@ -213,3 +225,4 @@ user engagement and productivity
 
 <br>
 
+<div class="gray-block"></div>
