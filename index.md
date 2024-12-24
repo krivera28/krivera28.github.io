@@ -13,34 +13,34 @@ Hi! I'm **Kaylani**, a Latina from Chicago with a passion for increasing **diver
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
 <a href="mailto:kaykayr2882@gmail.com" style="text-decoration: none;">
-    <button style="background-color: #D8BFD8; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    <button style="background-color: #392A4B; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         Email
     </button>
 </a>
 
 <a href="https://linkedin.com/in/kaylani-rivera" style="text-decoration: none;">
-    <button style="background-color: #D8BFD8; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    <button style="background-color: #392A4B; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         LinkedIn
     </button>
 </a>
 
 <a href="https://github.com/krivera28" style="text-decoration: none;">
-    <button style="background-color: #D8BFD8; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    <button style="background-color: #392A4B; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         GitHub
     </button>
 </a>
 
 <a href="https://<your-username>.github.io/Kaylani_Rivera_Resume.pdf" style="text-decoration: none;">
-    <button style="background-color: #28A745; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    <button style="background-color: #392A4B; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         📄 View My Résumé
     </button>
 </a>
 
 </div>
 
-
+<br><br>
 ---
-
+<br>
 
 ## **Education**
 **University of Illinois Urbana-Champaign**  
@@ -51,9 +51,9 @@ Expected Graduation: May 2026
 - Clubs: HackIllinois, Women in Computer Science, Association for Computing Machinery, Adventure Club
 - Honors: James Scholar, President’s Award Program Scholarship, State Farm Computer Science Scholarship
 
-
+<br>
 ---
-
+<br>
 
 ## **Experience**
 ### **Co-Director**  
@@ -71,9 +71,9 @@ As a Teaching Assistant for the Girls Who Code Summer Immersion Program, I manag
 _2021 - 2023_  
 As CSHS Project Manager, I spearheaded the organization of NCP's first annual Hackathon by delegating tasks to committees in charge of website development, community outreach, and event planning while personally managing food, activities, and guest speakers. I also orchestrated monthly meetings to monitor progress of committees and establish deadlines. For the CS community as a whole, I developed weekly CS club meeting and CS tutoring schedule based on availability of club leaders, tutors, and sponsors.
 
-
+<br>
 ---
-
+<br>
 
 ## **Projects**
 ### See my programming skills in action through my passion projects, ranging from fun games to play in your downtime to ways to organize your life!
@@ -110,12 +110,14 @@ human-like decision-making in card selection and matching
 streamlined gameplay and scoring mechanisms
 [View Project](#https://replit.com/@krivera30/Roottech-Final-Project#main.py)
 
-
+<br>
 ---
-
+<br>
 
 ## **Skills**
 - **Programming Languages:** C++, Java, Python, HTML/CSS, JavaScript, LaTeX, Verilog, Assembly  
 - **Technical Applications:** Website Development, Game Development, Cybersecurity, Data Science  
 - **Tools & Technologies:** Google Workspace, GitHub, VS Code, Docker, Notion, Artificial Intelligence (AI), Unity  
 - **Multilingual:** English (native), Spanish (proficient), Assyrian (beginner)  
+
+<br>
