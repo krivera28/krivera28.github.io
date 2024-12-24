@@ -32,7 +32,7 @@ Hi! I'm **Kaylani**, a Latina from Chicago with a passion for increasing **diver
 
 <a href="https://<your-username>.github.io/Kaylani_Rivera_Resume.pdf" style="text-decoration: none;">
     <button style="background-color: #392A4B; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
-        📄 View My Résumé
+        My Résumé
     </button>
 </a>
 
