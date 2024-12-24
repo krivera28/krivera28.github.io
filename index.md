@@ -5,9 +5,6 @@ title:
 
 <style>
 
-    body > div.footer {
-    display: none; 
-    }
     
     body {
         background-color: #2f0b42; 
@@ -80,7 +77,7 @@ title:
 <br>
 
 ## **Education**
-**University of Illinois Urbana-Champaign**  
+###**University of Illinois Urbana-Champaign**  
 _Bachelor of Science in Computer Science with a Minor in Game Studies and Design_  
 Expected Graduation: May 2026  
 - GPA: 3.8/4.0
@@ -95,6 +92,9 @@ Expected Graduation: May 2026
 <br>
 
 ## **Experience**
+
+<br>
+
 ### **Co-Director**  
 **HackIllinois** — University Of Illinois Urbana-Champaign
 _2024 - current_  
@@ -122,6 +122,8 @@ As CSHS Project Manager, I spearheaded the organization of NCP's first annual Ha
 
 ## **Projects**
 ### See my programming skills in action through my passion projects, ranging from fun games to play in your downtime to ways to organize your life!
+
+<br>
 
 ### **Recipe Sorter** - HTML, CSS, and JavaScript
 - Developed a data-driven recipe organization system, leveraging a spreadsheet foundation to create a searchable database
