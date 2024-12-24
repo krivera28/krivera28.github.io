@@ -77,6 +77,7 @@ title:
 <br>
 
 ## **Education**
+<br>
 ### **University of Illinois Urbana-Champaign**  
 _Bachelor of Science in Computer Science with a Minor in Game Studies and Design_  
 Expected Graduation: May 2026  
