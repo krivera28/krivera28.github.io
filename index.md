@@ -4,9 +4,33 @@ title: Kaylani Rivera
 ---
 
 <style>
+    header, footer {
+        background-color: #333333; 
+        height: 50px; 
+    }
+
+    header {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+    }
+
+    footer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.5);
+    }
+    
     body {
-        background-color: #4B0082; 
+        background-color: #2f0b42; 
+        margin: 0;
         color: white; 
+        padding: 0 0 50px;
     }
 
     a {
@@ -17,7 +41,15 @@ title: Kaylani Rivera
     a:hover {
         text-decoration: underline;
     }
+
+    main {
+        margin-top: 50px;
+    }
+    
 </style>
+
+<header></header>
+<main>
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
@@ -189,3 +221,6 @@ user engagement and productivity
 - **Multilingual:** English (native), Spanish (proficient), Assyrian (beginner)  
 
 <br>
+
+</main>
+<footer></footer>
