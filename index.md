@@ -39,6 +39,7 @@ I'm a student at the University of Illinois pursuing my Bachelor's in Computer S
 </div>
 
 <br><br>
+
 ---
 
 
@@ -52,6 +53,7 @@ Expected Graduation: May 2026
 - Honors: James Scholar, President’s Award Program Scholarship, State Farm Computer Science Scholarship
 
 <br>
+
 ---
 
 
@@ -72,6 +74,7 @@ _2021 - 2023_
 As CSHS Project Manager, I spearheaded the organization of NCP's first annual Hackathon by delegating tasks to committees in charge of website development, community outreach, and event planning while personally managing food, activities, and guest speakers. I also orchestrated monthly meetings to monitor progress of committees and establish deadlines. For the CS community as a whole, I developed weekly CS club meeting and CS tutoring schedule based on availability of club leaders, tutors, and sponsors.
 
 <br>
+
 ---
 
 
@@ -129,6 +132,7 @@ user engagement and productivity
 </a>
 
 <br>
+
 ---
 
 
