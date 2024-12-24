@@ -30,9 +30,9 @@ Hi! I'm **Kaylani**, a Latina from Chicago with a passion for increasing **diver
     </button>
 </a>
 
-<a href="path-to-your-resume.pdf" style="text-decoration: none;">
-    <button style="background-color: #D8BFD8; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
-        Résumé
+<a href="https://<your-username>.github.io/Kaylani_Rivera_Resume.pdf" style="text-decoration: none;">
+    <button style="background-color: #28A745; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+        📄 View My Résumé
     </button>
 </a>
 
@@ -45,7 +45,7 @@ Hi! I'm **Kaylani**, a Latina from Chicago with a passion for increasing **diver
 ## **Education**
 **University of Illinois Urbana-Champaign**  
 _Bachelor of Science in Computer Science with a Minor in Game Studies and Design_  
-Expected Graduation: May 2027  
+Expected Graduation: May 2026  
 - GPA: 3.8/4.0
 - Relevant coursework: Systems Programming, Data Structures, Computer Architecture, Discrete Structures, Software Design Lab
 - Clubs: HackIllinois, Women in Computer Science, Association for Computing Machinery, Adventure Club
