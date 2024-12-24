@@ -1,6 +1,6 @@
 ---
 layout: home
-title: **Kaylani Rivera's Portfolio**
+title: Kaylani Rivera's Portfolio
 ---
 
 Hi! I'm **Kaylani**, a Latina from Chicago with a passion for increasing **diversity** in video games and the field of **Computer Science** as a whole. Nationally recognized for my aspiration in technology, I aim to make my dreams a reality by being the **first** of my family to graduate from college. 
