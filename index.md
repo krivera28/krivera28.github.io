@@ -1,10 +1,17 @@
-<meta property="og:title"              content="Kaylani Rivera" />
-<meta property="og:description"        content="Hi, I'm Kaylani! I'm a student at the University of Illinois pursuing my Bachelor's in Computer Science with a minor in Game Studies & Design. As a Latina from Chicago, my passion is to increase diversity in video games and the field of Computer Science as a whole. Nationally recognized for my aspirations in technology, I aim to make my dreams a reality by being the first in my family to graduate from college. Feel free to reach out to chat!" />
-
 ---
 layout: default
 title: 
 ---
+
+<head>
+    <title>Kaylani Rivera's Portfolio</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:description"        content="Hi, I'm Kaylani! I'm a student at the University of Illinois pursuing my Bachelor's in Computer Science with a minor in Game Studies & Design. As a Latina from Chicago, my passion is to increase diversity in video games and the field of Computer Science as a whole. Nationally recognized for my aspirations in technology, I aim to make my dreams a reality by being the first in my family to graduate from college. Feel free to reach out to chat!" />
+    <meta property="og:title" content="Kaylani Rivera's Portfolio" />
+    <meta property="description"        content="Hi, I'm Kaylani! I'm a student at the University of Illinois pursuing my Bachelor's in Computer Science with a minor in Game Studies & Design. As a Latina from Chicago, my passion is to increase diversity in video games and the field of Computer Science as a whole. Nationally recognized for my aspirations in technology, I aim to make my dreams a reality by being the first in my family to graduate from college. Feel free to reach out to chat!" />
+</head>
+
 
 <style>
 
