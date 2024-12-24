@@ -14,25 +14,25 @@ Hi! I'm **Kaylani**, a Latina from Chicago with a passion for increasing **diver
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
 <a href="mailto:kaykayr2882@gmail.com" style="text-decoration: none;">
-    <button style="background-color: #007BFF; color: purple; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    <button style="background-color: #D8BFD8; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         Email
     </button>
 </a>
 
 <a href="https://linkedin.com/in/kaylani-rivera" style="text-decoration: none;">
-    <button style="background-color: #007BFF; color: purple; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    <button style="background-color: #D8BFD8; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         LinkedIn
     </button>
 </a>
 
 <a href="https://github.com/krivera28" style="text-decoration: none;">
-    <button style="background-color: #007BFF; color: purple; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    <button style="background-color: #D8BFD8; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         GitHub
     </button>
 </a>
 
 <a href="path-to-your-resume.pdf" style="text-decoration: none;">
-    <button style="background-color: #28A745; color: purple; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    <button style="background-color: #D8BFD8; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         Résumé
     </button>
 </a>
@@ -64,7 +64,7 @@ _Summer 2024_
 As a Teaching Assistant for the Girls Who Code Summer Immersion Program, I managed 60 students in my classroom and evaluated student work daily, sharing personalized constructive feedback to support their growth and understanding of game development concepts. I also provided individualized support and mentorship to students, addressing their questions and concerns both during class and asynchronously to foster a positive and inclusive learning environment. Additionally, I facilitated breakout rooms, provided guidance during advisory, and hosted student hours to enhance their learning!
 
 ### **Project Manager**  
-**[Compuer Science Honor Society]** — Northside College Prep
+**[Computer Science Honor Society]** — Northside College Prep
 _2021 - 2023_  
 As CSHS Project Manager, I spearheaded the organization of NCP's first annual Hackathon by delegating tasks to committees in charge of website development, community outreach, and event planning while personally managing food, activities, and guest speakers. I also orchestrated monthly meetings to monitor progress of committees and establish deadlines. For the CS community as a whole, I developed weekly CS club meeting and CS tutoring schedule based on availability of club leaders, tutors, and sponsors.
 
