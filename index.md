@@ -14,7 +14,7 @@ Hi! I'm **Kaylani**, a Latina from Chicago with a passion for increasing **diver
 ---
 
 ## **Projects**
-###See my programming skills in action through my passion projects ranging from fun games to play in your downtime to ways to organize your life!
+### See my programming skills in action through my passion projects ranging from fun games to play in your downtime to ways to organize your life!
 
 ### Recipe Sorter
 A tool I developed to manage and organize recipes using a Google Sheet integration with a custom website.
