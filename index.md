@@ -48,7 +48,6 @@ title:
     
 </style>
 
-<header></header>
 <main>
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
@@ -223,4 +222,3 @@ user engagement and productivity
 <br>
 
 </main>
-<footer></footer>
