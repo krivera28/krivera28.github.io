@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kaylani Rivera
+title: 
 ---
 
 <style>
