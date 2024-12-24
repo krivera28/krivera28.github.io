@@ -34,10 +34,11 @@ I'm a student at the University of Illinois pursuing my Bachelor's in Computer S
 
 </div>
 
-<br><br>
+<br>
 
 ---
 
+<br>
 
 ## **Education**
 **University of Illinois Urbana-Champaign**  
@@ -52,6 +53,7 @@ Expected Graduation: May 2026
 
 ---
 
+<br>
 
 ## **Experience**
 ### **Co-Director**  
@@ -73,6 +75,7 @@ As CSHS Project Manager, I spearheaded the organization of NCP's first annual Ha
 
 ---
 
+<br>
 
 ## **Projects**
 ### See my programming skills in action through my passion projects, ranging from fun games to play in your downtime to ways to organize your life!
@@ -131,6 +134,7 @@ user engagement and productivity
 
 ---
 
+<br>
 
 ## **Skills**
 - **Programming Languages:** C++, Java, Python, HTML/CSS, JavaScript, LaTeX, Verilog, Assembly  
