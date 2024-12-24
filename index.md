@@ -5,6 +5,9 @@ title:
 
 <style>
 
+    footer {
+    display: none; 
+    }
     
     body {
         background-color: #2f0b42; 
