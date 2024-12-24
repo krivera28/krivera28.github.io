@@ -4,26 +4,9 @@ title:
 ---
 
 <style>
-    header, footer {
-        background-color: #333333; 
-        height: 50px; 
-    }
 
-    header {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
-    }
-
-    footer {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        position: fixed;
-        bottom: 0;
-        width: 100%;
-        box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.5);
+    body > div.footer {
+    display: none; 
     }
     
     body {
@@ -42,13 +25,9 @@ title:
         text-decoration: underline;
     }
 
-    main {
-        margin-top: 50px;
-    }
     
 </style>
 
-<main>
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
@@ -221,4 +200,3 @@ user engagement and productivity
 
 <br>
 
-</main>
