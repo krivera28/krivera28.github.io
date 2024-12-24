@@ -85,6 +85,7 @@ As CSHS Project Manager, I spearheaded the organization of NCP's first annual Ha
 - Developed a data-driven recipe organization system, leveraging a spreadsheet foundation to create a searchable database
 - Implemented advanced filtering and sorting algorithms to efficiently categorize and retrieve recipes based on attributes
 - Designed a scalable architecture by using Google Apps Script to automatically update data when the app is loaded
+
 <a href="https://replit.com/@QueenKay1/Recipe-Sorter" style="text-decoration: none;">
     <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         View Project
