@@ -3,12 +3,11 @@ layout: default
 title: Kaylani Rivera
 ---
 
-# Hi, I'm Kaylani!
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
-    <div style="flex: 1; max-width: 150px;">
-        <img src="https://krivera28.github.io/Kaylani_Rivera_Headshot.jpeg" alt="Kaylani Rivera Headshot" style="width: 100%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <div style="flex: 1; max-width: 250px;">
+        <img src="https://krivera28.github.io/Kaylani_Rivera_Headshot.jpeg" alt="Kaylani Rivera Headshot" style="width: 100%; border-radius: 20%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     </div>
 
     <div style="flex: 2; min-width: 250px;">
