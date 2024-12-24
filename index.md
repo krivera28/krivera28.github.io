@@ -7,7 +7,7 @@ title: Kaylani Rivera
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
     <div style="flex: 1; max-width: 250px;">
-        <img src="https://krivera28.github.io/Kaylani_Rivera_Headshot.jpeg" alt="Kaylani Rivera Headshot" style="width: 100%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+        <img src="https://krivera28.github.io/Kaylani_Rivera_Headshot.jpeg" alt="Kaylani Rivera Headshot" style="width: 100%; border-radius: 40%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     </div>
 
     <div style="flex: 2; min-width: 250px;">
@@ -75,10 +75,14 @@ Expected Graduation: May 2026
 _2024 - current_  
 As the Co-Director of HackIllinois, the largest student-run hackathon in the Midwest, I lead the planning and execution of this event by managing over 50 staff members in coordinating various event aspects for over 800 participants. To accomplish this, I foster a sense of community among staff through team-building activities to ensure successful collaboration. I am also responsible for managing the event budget, determining the effective allocation of resources to maximize the success of the event! 
 
+<br>
+
 ### **Teaching Assistant**  
 **Summer Immersion Program** — Girls Who Code
 _Summer 2024_  
 As a Teaching Assistant for the Girls Who Code Summer Immersion Program, I managed 60 students in my classroom and evaluated student work daily, sharing personalized constructive feedback to support their growth and understanding of game development concepts. I also provided individualized support and mentorship to students, addressing their questions and concerns both during class and asynchronously to foster a positive and inclusive learning environment. Additionally, I facilitated breakout rooms, provided guidance during advisory, and hosted student hours to enhance their learning!
+
+<br>
 
 ### **Project Manager**  
 **Computer Science Honor Society** — Northside College Prep
@@ -105,6 +109,8 @@ As CSHS Project Manager, I spearheaded the organization of NCP's first annual Ha
     </button>
 </a>
 
+<br>
+
 ### **Gamify** - Java, HTML, CSS, and JavaScript
 - Conceptualized and developed a digital framework for life task management, applying game design principles to enhance
 user engagement and productivity
@@ -117,6 +123,8 @@ user engagement and productivity
     </button>
 </a>
 
+<br>
+
 ### **Melodify** - Python, HTML, CSS, and JavaScript
 - Used AI to create custom music from text prompts and delivers personalized song recommendations based on your unique listening history and preferences, making music discovery effortless
 - Enhanced traditional music streaming apps with built-in music creation tools, allowing listeners to seamlessly transition from enjoying music to creating their own
@@ -128,6 +136,8 @@ user engagement and productivity
     </button>
 </a>
 
+<br>
+
 ### **Casino Simulator** - Java
 - Utilized Java to make a gambling simulator where players wager money to guess randomly generated winning numbers, with their balance updating in real-time based on their success or failure
 - Featured an innovative shuffle mechanic that allows players to reshuffle numbers at will, while automatically triggering a shuffle after 10 rounds to maintain game fairness
@@ -138,6 +148,8 @@ user engagement and productivity
         View Project
     </button>
 </a>
+
+<br>
 
 ### **Go Fish Simulator** - Python
 - Created an AI algorithm for bot players, employing array-based data structures and search algorithms to mimic human-like decision-making in card selection and matching
