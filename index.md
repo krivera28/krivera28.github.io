@@ -5,6 +5,10 @@ title:
 
 <style>
 
+    header {
+    display: none; 
+    }
+    
     footer {
     display: none; 
     }
@@ -28,6 +32,9 @@ title:
     
 </style>
 
+<br>
+
+<br>
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
