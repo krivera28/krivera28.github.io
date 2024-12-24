@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Kaylani Rivera's Portfolio
+title: Hi, I'm Kaylani!
 ---
 
 
-Hi! I'm **Kaylani**, a Latina from Chicago with a passion for increasing **diversity** in video games and the field of **Computer Science** as a whole. Nationally recognized for my aspirations in technology, I aim to make my dreams a reality by being the **first** in my family to graduate from college.  
+I'm a student at the University of Illinois pursuing my Bachelor's in Computer Science with a minor in Game Studies & Design. As a Latina from Chicago, my passion is to increase diversity in video games and the field of Computer Science as a whole. Nationally recognized for my aspirations in technology, I aim to make my dreams a reality by being the first in my family to graduate from college.  
 
 
 
@@ -13,25 +13,25 @@ Hi! I'm **Kaylani**, a Latina from Chicago with a passion for increasing **diver
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
 <a href="mailto:kaykayr2882@gmail.com" style="text-decoration: none;">
-    <button style="background-color: #392A4B; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         Email
     </button>
 </a>
 
 <a href="https://linkedin.com/in/kaylani-rivera" style="text-decoration: none;">
-    <button style="background-color: #392A4B; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         LinkedIn
     </button>
 </a>
 
 <a href="https://github.com/krivera28" style="text-decoration: none;">
-    <button style="background-color: #392A4B; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         GitHub
     </button>
 </a>
 
 <a href="https://<your-username>.github.io/Kaylani_Rivera_Resume.pdf" style="text-decoration: none;">
-    <button style="background-color: #392A4B; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         My Résumé
     </button>
 </a>
@@ -82,33 +82,51 @@ As CSHS Project Manager, I spearheaded the organization of NCP's first annual Ha
 - Developed a data-driven recipe organization system, leveraging a spreadsheet foundation to create a searchable database
 - Implemented advanced filtering and sorting algorithms to efficiently categorize and retrieve recipes based on attributes
 - Designed a scalable architecture by using Google Apps Script to automatically update data when the app is loaded
-[View Project](#https://replit.com/@QueenKay1/Recipe-Sorter)  
+<a href="https://replit.com/@QueenKay1/Recipe-Sorter" style="text-decoration: none;">
+    <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+        View Project
+    </button>
+</a>
 
 ### **Gamify** - Java, HTML, CSS, and JavaScript
 - Conceptualized and developed a digital framework for life task management, applying game design principles to enhance
 user engagement and productivity
 - Implemented a quantifiable progress tracking system, utilizing data visualization to provide users with tangible feedback
 - Engineered a flexible task categorization structure, allowing for customizable ”quests” to accommodate diverse lifestyles
-[View Project](#https://github.com/krivera28/gamify)
+<a href="https://github.com/krivera28/gamify" style="text-decoration: none;">
+    <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+        View Project
+    </button>
+</a>
 
 ### **Melodify** - Python, HTML, CSS, and JavaScript
 - Used AI to create custom music from text prompts and delivers personalized song recommendations based on your unique listening history and preferences, making music discovery effortless
 - Enhanced traditional music streaming apps with built-in music creation tools, allowing listeners to seamlessly transition from enjoying music to creating their own
 - Developed and led by a Women in CS team which I was the project manager of from initial concept through final presentation, demonstrating innovative integration of AI technology in music streaming
-[View Project](#https://github.com/krivera28/melodify-my-copy)
+<a href="https://github.com/krivera28/melodify-my-copy" style="text-decoration: none;">
+    <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+        View Project
+    </button>
+</a>
 
 ### **Casino Simulator** - Java
 - Utilized Java to make a gambling simulator where players wager money to guess randomly generated winning numbers, with their balance updating in real-time based on their success or failure
 - Featured an innovative shuffle mechanic that allows players to reshuffle numbers at will, while automatically triggering a shuffle after 10 rounds to maintain game fairness
 - Incorporated strategic gameplay elements with clear win/lose conditions, ending when players either deplete their funds or reach a predetermined winning threshold
-[View Project](#https://replit.com/@krivera30/Roottech-Gambling-Game-)
+<a href="https://replit.com/@krivera30/Roottech-Gambling-Game-" style="text-decoration: none;">
+    <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+        View Project
+    </button>
+</a>
 
 ### **Go Fish Simulator** - Python
-- Created an AI algorithm for bot players, employing array-based data structures and search algorithms to mimic
-human-like decision-making in card selection and matching
-- Devised an efficient card management system, utilizing custom functions to parse and manipulate card attributes for
-streamlined gameplay and scoring mechanisms
-[View Project](#https://replit.com/@krivera30/Roottech-Final-Project#main.py)
+- Created an AI algorithm for bot players, employing array-based data structures and search algorithms to mimic human-like decision-making in card selection and matching
+- Devised an efficient card management system, utilizing custom functions to parse and manipulate card attributes for streamlined gameplay and scoring mechanisms
+<a href="[https://github.com/krivera28](https://replit.com/@krivera30/Roottech-Final-Project#main.py)" style="text-decoration: none;">
+    <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+        View Project
+    </button>
+</a>
 
 <br>
 ---
