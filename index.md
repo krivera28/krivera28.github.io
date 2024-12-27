@@ -37,7 +37,7 @@
     </div>
 
     <div style="flex: 2; min-width: 250px;">
-        <h1>Hi, I'm Kaylani!</h1>
+        ** <h1>Hi, I'm Kaylani!</h1> **
         <p>
             I'm a student at the University of Illinois pursuing my Bachelor's in Computer Science with a minor in Game Studies & Design. As a Latina from Chicago, my passion is to increase diversity in video games and the field of Computer Science as a whole. Nationally recognized for my aspirations in technology, I aim to make my dreams a reality by being the first in my family to graduate from college. Feel free to reach out to chat!
         </p>
