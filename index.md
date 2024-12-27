@@ -32,7 +32,7 @@
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
-    <div style="flex: 1; max-width: 250px; aspect-ratio: 1; overflow: hidden; border-radius: 50%;">
+    <div style="flex: 1; max-width: 250px; aspect-ratio: 1; overflow: hidden; border-radius: 40%;">
         <img src="https://krivera28.github.io/Kaylani_Rivera_Headshot.jpeg" alt="Kaylani Rivera Headshot" style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     </div>
 
