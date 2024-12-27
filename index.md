@@ -32,8 +32,8 @@
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
-    <div style="flex: 1; max-width: 250px;">
-        <img src="https://krivera28.github.io/Kaylani_Rivera_Headshot.jpeg" alt="Kaylani Rivera Headshot" style="width: 100%; border-radius: 40%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <div style="flex: 1; max-width: 250px; aspect-ratio: 1; overflow: hidden; border-radius: 50%;">
+        <img src="https://krivera28.github.io/Kaylani_Rivera_Headshot.jpeg" alt="Kaylani Rivera Headshot" style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     </div>
 
     <div style="flex: 2; min-width: 250px;">
@@ -100,12 +100,16 @@ Expected Graduation: May 2026
 
 <br>
 
-### **Co-Director**  
-**HackIllinois** — University Of Illinois Urbana-Champaign
-
-_2024 - current_  
-
-As the Co-Director of HackIllinois, the largest student-run hackathon in the Midwest, I lead the planning and execution of this event by managing over 50 staff members in coordinating various event aspects for over 800 participants. To accomplish this, I foster a sense of community among staff through team-building activities to ensure successful collaboration. I am also responsible for managing the event budget, determining the effective allocation of resources to maximize the success of the event! 
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+    <h3 style="margin: 0; font-weight: bold;">Co-Director</h3>
+    <span style="font-style: italic; color: gray;">2024 - current</span>
+</div>
+<div style="margin-bottom: 10px;">
+    <strong>HackIllinois</strong> — University Of Illinois Urbana-Champaign
+</div>
+<p>
+    As the Co-Director of HackIllinois, the largest student-run hackathon in the Midwest, I lead the planning and execution of this event by managing over 50 staff members in coordinating various event aspects for over 800 participants. To accomplish this, I foster a sense of community among staff through team-building activities to ensure successful collaboration. I am also responsible for managing the event budget, determining the effective allocation of resources to maximize the success of the event!
+</p>
 
 <br>
 
