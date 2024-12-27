@@ -100,12 +100,12 @@ Expected Graduation: May 2026
 
 <br>
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
-    <h3 style="margin: 0; font-weight: bold;">Co-Director</h3>
-    <span style="font-style: italic; color: gray;">2024 - current</span>
-</div>
 <div style="margin-bottom: 10px;">
-    <strong>HackIllinois</strong> — University Of Illinois Urbana-Champaign
+    <h3 style="margin: 0; font-weight: bold;">Co-Director</h3>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <strong>HackIllinois — University Of Illinois Urbana-Champaign</strong>
+        <span style="font-style: italic; color: gray;">2024 - current</span>
+    </div>
 </div>
 <p>
     As the Co-Director of HackIllinois, the largest student-run hackathon in the Midwest, I lead the planning and execution of this event by managing over 50 staff members in coordinating various event aspects for over 800 participants. To accomplish this, I foster a sense of community among staff through team-building activities to ensure successful collaboration. I am also responsible for managing the event budget, determining the effective allocation of resources to maximize the success of the event!
@@ -113,21 +113,29 @@ Expected Graduation: May 2026
 
 <br>
 
-### **Teaching Assistant**  
-**Summer Immersion Program** — Girls Who Code
-
-_Summer 2024_  
-
-As a Teaching Assistant for the Girls Who Code Summer Immersion Program, I managed 60 students in my classroom and evaluated student work daily, sharing personalized constructive feedback to support their growth and understanding of game development concepts. I also provided individualized support and mentorship to students, addressing their questions and concerns both during class and asynchronously to foster a positive and inclusive learning environment. Additionally, I facilitated breakout rooms, provided guidance during advisory, and hosted student hours to enhance their learning!
+<div style="margin-bottom: 10px;">
+    <h3 style="margin: 0; font-weight: bold;">Teaching Assistant</h3>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <strong>Summer Immersion Program — Girls Who Code</strong>
+        <span style="font-style: italic; color: gray;">Summer 2024</span>
+    </div>
+</div>
+<p>
+    As a Teaching Assistant for the Girls Who Code Summer Immersion Program, I managed 60 students in my classroom and evaluated student work daily, sharing personalized constructive feedback to support their growth and understanding of game development concepts. I also provided individualized support and mentorship to students, addressing their questions and concerns both during class and asynchronously to foster a positive and inclusive learning environment. Additionally, I facilitated breakout rooms, provided guidance during advisory, and hosted student hours to enhance their learning!
+</p>
 
 <br>
 
-### **Project Manager**  
-**Computer Science Honor Society** — Northside College Prep
-
-_2021 - 2023_  
-
-As CSHS Project Manager, I spearheaded the organization of NCP's first annual Hackathon by delegating tasks to committees in charge of website development, community outreach, and event planning while personally managing food, activities, and guest speakers. I also orchestrated monthly meetings to monitor progress of committees and establish deadlines. For the CS community as a whole, I developed weekly CS club meeting and CS tutoring schedule based on availability of club leaders, tutors, and sponsors.
+<div style="margin-bottom: 10px;">
+    <h3 style="margin: 0; font-weight: bold;">Project Manager</h3>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <strong>Computer Science Honor Society — Northside College Prep</strong>
+        <span style="font-style: italic; color: gray;">2021 - 2023</span>
+    </div>
+</div>
+<p>
+    As CSHS Project Manager, I spearheaded the organization of NCP's first annual Hackathon by delegating tasks to committees in charge of website development, community outreach, and event planning while personally managing food, activities, and guest speakers. I also orchestrated monthly meetings to monitor progress of committees and establish deadlines. For the CS community as a whole, I developed weekly CS club meeting and CS tutoring schedule based on availability of club leaders, tutors, and sponsors.
+</p>
 
 <br>
 
