@@ -102,6 +102,7 @@ Expected Graduation: May 2026
 
 ### **Co-Director**  
 **HackIllinois** — University Of Illinois Urbana-Champaign
+
 _2024 - current_  
 As the Co-Director of HackIllinois, the largest student-run hackathon in the Midwest, I lead the planning and execution of this event by managing over 50 staff members in coordinating various event aspects for over 800 participants. To accomplish this, I foster a sense of community among staff through team-building activities to ensure successful collaboration. I am also responsible for managing the event budget, determining the effective allocation of resources to maximize the success of the event! 
 
@@ -109,6 +110,7 @@ As the Co-Director of HackIllinois, the largest student-run hackathon in the Mid
 
 ### **Teaching Assistant**  
 **Summer Immersion Program** — Girls Who Code
+
 _Summer 2024_  
 As a Teaching Assistant for the Girls Who Code Summer Immersion Program, I managed 60 students in my classroom and evaluated student work daily, sharing personalized constructive feedback to support their growth and understanding of game development concepts. I also provided individualized support and mentorship to students, addressing their questions and concerns both during class and asynchronously to foster a positive and inclusive learning environment. Additionally, I facilitated breakout rooms, provided guidance during advisory, and hosted student hours to enhance their learning!
 
@@ -116,6 +118,7 @@ As a Teaching Assistant for the Girls Who Code Summer Immersion Program, I manag
 
 ### **Project Manager**  
 **Computer Science Honor Society** — Northside College Prep
+
 _2021 - 2023_  
 As CSHS Project Manager, I spearheaded the organization of NCP's first annual Hackathon by delegating tasks to committees in charge of website development, community outreach, and event planning while personally managing food, activities, and guest speakers. I also orchestrated monthly meetings to monitor progress of committees and establish deadlines. For the CS community as a whole, I developed weekly CS club meeting and CS tutoring schedule based on availability of club leaders, tutors, and sponsors.
 
