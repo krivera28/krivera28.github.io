@@ -108,7 +108,7 @@ Expected Graduation: May 2026
     </div>
 </div>
 <p>
-    As Infrastructure Chair at ACM UIUC, I lead core software engineering initiatives by managing multiple development teams in building and maintaining crucial services across AWS, Azure, and Cloudflare platforms. I direct the development and maintenance of essential platforms, including our event management system and membership services, ensuring scalability and reliability for the student community. While overseeing these operations, I also establish technical standards and best practices across teams, spearheading the modernization of ACM's platforms to enhance user experience and operational efficiency.
+    As Infrastructure Chair at ACM, I lead core software engineering initiatives by managing multiple development teams in building and maintaining crucial services across AWS, Azure, and Cloudflare platforms. I direct the development and maintenance of essential platforms, including our event management system and membership services, ensuring scalability and reliability for the student community. While overseeing these operations, I also establish technical standards and best practices across teams, spearheading the modernization of ACM's platforms to enhance user experience and operational efficiency.
 </p>
 
 <br>
