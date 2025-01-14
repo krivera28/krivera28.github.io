@@ -101,14 +101,14 @@ Expected Graduation: May 2026
 <br>
 
 <div style="margin-bottom: 10px;">
-    <h3 style="margin: 0; font-weight: bold;">Co-Director</h3>
+    <h3 style="margin: 0; font-weight: bold;">Infrastructure Chair</h3>
     <div style="display: flex; justify-content: space-between; align-items: center;">
-        <strong>HackIllinois — University Of Illinois Urbana-Champaign</strong>
-        <span style="font-style: italic; color: gray;">2024 - current</span>
+        <strong>Association for Computing Machinery — University of Illinois Urbana-Champaign</strong>
+        <span style="font-style: italic; color: gray;">September 2024 - Present</span>
     </div>
 </div>
 <p>
-    As the Co-Director of HackIllinois, the largest student-run hackathon in the Midwest, I lead the planning and execution of this event by managing over 50 staff members in coordinating various event aspects for over 800 participants. To accomplish this, I foster a sense of community among staff through team-building activities to ensure successful collaboration. I am also responsible for managing the event budget, determining the effective allocation of resources to maximize the success of the event!
+    As Infrastructure Chair at ACM UIUC, I lead core software engineering initiatives by managing multiple development teams in building and maintaining crucial services across AWS, Azure, and Cloudflare platforms. I direct the development and maintenance of essential platforms, including our event management system and membership services, ensuring scalability and reliability for the student community. While overseeing these operations, I also establish technical standards and best practices across teams, spearheading the modernization of ACM's platforms to enhance user experience and operational efficiency.
 </p>
 
 <br>
@@ -117,7 +117,7 @@ Expected Graduation: May 2026
     <h3 style="margin: 0; font-weight: bold;">Teaching Assistant</h3>
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <strong>Summer Immersion Program — Girls Who Code</strong>
-        <span style="font-style: italic; color: gray;">Summer 2024</span>
+        <span style="font-style: italic; color: gray;">May 2024 - July 2024</span>
     </div>
 </div>
 <p>
@@ -126,15 +126,16 @@ Expected Graduation: May 2026
 
 <br>
 
+
 <div style="margin-bottom: 10px;">
-    <h3 style="margin: 0; font-weight: bold;">Project Manager</h3>
+    <h3 style="margin: 0; font-weight: bold;">Co-Director</h3>
     <div style="display: flex; justify-content: space-between; align-items: center;">
-        <strong>Computer Science Honor Society — Northside College Prep</strong>
-        <span style="font-style: italic; color: gray;">2021 - 2023</span>
+        <strong>HackIllinois — University Of Illinois Urbana-Champaign</strong>
+        <span style="font-style: italic; color: gray;">October 2023 - September 2024</span>
     </div>
 </div>
 <p>
-    As CSHS Project Manager, I spearheaded the organization of NCP's first annual Hackathon by delegating tasks to committees in charge of website development, community outreach, and event planning while personally managing food, activities, and guest speakers. I also orchestrated monthly meetings to monitor progress of committees and establish deadlines. For the CS community as a whole, I developed weekly CS club meeting and CS tutoring schedule based on availability of club leaders, tutors, and sponsors.
+    As the Co-Director of HackIllinois, the largest student-run hackathon in the Midwest, I led the planning of this event by managing over 50 staff members in coordinating various event aspects for over 800 participants. To accomplish this, I fostered a sense of community among staff through team-building activities to ensure successful collaboration. I was also responsible for managing the event budget, determining the effective allocation of resources to maximize the success of the event!
 </p>
 
 <br>
@@ -218,10 +219,10 @@ user engagement and productivity
 <br>
 
 ## **Skills**
-- **Programming Languages:** C++, Java, Python, HTML/CSS, JavaScript, LaTeX, Verilog, Assembly  
-- **Technical Applications:** Website Development, Game Development, Cybersecurity, Data Science  
-- **Tools & Technologies:** Google Workspace, GitHub, VS Code, Docker, Notion, Artificial Intelligence (AI), Unity  
-- **Multilingual:** English (native), Spanish (proficient), Assyrian (beginner)  
+- **Programming Languages:** C++, Java, Python, HTML/CSS, JavaScript, LaTeX, Verilog, Assembly   
+- **Tools & Technologies:** Google Workspace, GitHub, VS Code, Docker, AWS, Azure, Cloudflare, AI, Unity
+- **Technical Applications:** Website Development, Game Development, Cybersecurity, Data Science 
+- **Multilingual:** English, Spanish, Assyrian 
 
 <br>
 
