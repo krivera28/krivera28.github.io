@@ -221,7 +221,7 @@ user engagement and productivity
 ## **Skills**
 - **Programming Languages:** C++, Java, Python, HTML/CSS, JavaScript, LaTeX, Verilog, Assembly   
 - **Tools & Technologies:** Google Workspace, GitHub, VS Code, Docker, AWS, Azure, Cloudflare, AI, Unity
-- **Technical Applications:** Website Development, Game Development, Cybersecurity, Data Science 
+- **Technical Applications:** Website Development, Game Development, Cybersecurity, Robotics, and Data Science 
 - **Multilingual:** English, Spanish, Assyrian 
 
 <br>
