@@ -86,8 +86,8 @@
 _Bachelor of Science in Computer Science with a Minor in Game Studies and Design_  
 Expected Graduation: May 2026  
 - GPA: 3.8/4.0
-- Relevant coursework: Systems Programming, Data Structures, Computer Architecture, Discrete Structures, Software Design Lab
-- Clubs: HackIllinois, Women in Computer Science, Association for Computing Machinery, Adventure Club
+- Relevant coursework:  Data Structures, System Programming, Computer Architecture, Discrete Structures, Linear Algebra
+- Clubs: Association for Computing Machinery, HackIllinois, Women in Computer Science, Adventure Club
 - Honors: James Scholar, President’s Award Program Scholarship, State Farm Computer Science Scholarship
 
 <br>
@@ -103,7 +103,7 @@ Expected Graduation: May 2026
 <div style="margin-bottom: 10px;">
     <h3 style="margin: 0; font-weight: bold;">Infrastructure Chair</h3>
     <div style="display: flex; justify-content: space-between; align-items: center;">
-        <strong>Association for Computing Machinery — University of Illinois Urbana-Champaign</strong>
+        <strong>Association for Computing Machinery — Urbana, IL</strong>
         <span style="font-style: italic; color: gray;">September 2024 - Present</span>
     </div>
 </div>
@@ -116,7 +116,7 @@ Expected Graduation: May 2026
 <div style="margin-bottom: 10px;">
     <h3 style="margin: 0; font-weight: bold;">Teaching Assistant</h3>
     <div style="display: flex; justify-content: space-between; align-items: center;">
-        <strong>Summer Immersion Program — Girls Who Code</strong>
+        <strong>Girls Who Code - Remote</strong>
         <span style="font-style: italic; color: gray;">May 2024 - July 2024</span>
     </div>
 </div>
@@ -130,7 +130,7 @@ Expected Graduation: May 2026
 <div style="margin-bottom: 10px;">
     <h3 style="margin: 0; font-weight: bold;">Co-Director</h3>
     <div style="display: flex; justify-content: space-between; align-items: center;">
-        <strong>HackIllinois — University Of Illinois Urbana-Champaign</strong>
+        <strong>HackIllinois — Urbana, IL</strong>
         <span style="font-style: italic; color: gray;">October 2023 - September 2024</span>
     </div>
 </div>
