@@ -108,7 +108,7 @@ Expected Graduation: May 2026
     </div>
 </div>
 <p>
-    As Infrastructure Chair at ACM, I lead core software engineering initiatives by managing multiple development teams in building and maintaining crucial services across AWS, Azure, and Cloudflare platforms. I direct the development and maintenance of essential platforms, including our event management system and membership services, ensuring scalability and reliability for the student community. While overseeing these operations, I also establish technical standards and best practices across teams, spearheading the modernization of ACM's platforms to enhance user experience and operational efficiency.
+    As Infrastructure Chair at ACM, I lead the development of the core management platform using React/TypeScript and AWS Lambda, delivering event management and membership services to 1000+ users with 99.9% uptime. I developed and implemented automated membership APIs to streamline access to internal services, resulting in 40% increase in paid memberships and simplified user authentication across all ACM platforms. Additionally, I established technical standards and best practices across various teams while modernizing ACM's platforms to improve user experience and operational efficiency.
 </p>
 
 <br>
@@ -219,7 +219,7 @@ user engagement and productivity
 <br>
 
 ## **Skills**
-- **Programming Languages:** C/C++, Java, Python, HTML/CSS, JavaScript, LaTeX, Verilog, Assembly   
+- **Programming Languages:** C/C++, Java, Python, HTML/CSS, JavaScript, Assembly, React, Verilog, LaTex 
 - **Tools & Technologies:** Google Workspace, GitHub, VS Code, Docker, AWS, Azure, Cloudflare, AI, Unity
 - **Technical Applications:** Website Development, Game Development, Cybersecurity, Robotics, and Data Science 
 - **Multilingual:** English, Spanish, Assyrian 
