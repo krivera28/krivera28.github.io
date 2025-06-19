@@ -84,9 +84,9 @@
 <br>
 ### **University of Illinois Urbana-Champaign**  
 _Bachelor of Science in Computer Science with a Minor in Game Studies and Design_  
-Expected Graduation: May 2026  
+May 2027  
 - GPA: 3.8/4.0
-- Relevant coursework:  Data Structures, System Programming, Computer Architecture, Discrete Structures, Linear Algebra
+- Relevant coursework: Data Structures, System Programming, Algorithms, Computer Architecture, Discrete Structures, Linear Algebra, Computer Graphics
 - Clubs: Association for Computing Machinery, HackIllinois, Women in Computer Science, Adventure Club
 - Honors: James Scholar, President’s Award Program Scholarship, State Farm Computer Science Scholarship
 
@@ -97,6 +97,21 @@ Expected Graduation: May 2026
 <br>
 
 ## **Experience**
+
+
+
+<br>
+
+<div style="margin-bottom: 10px;">
+    <h3 style="margin: 0; font-weight: bold;">Teaching Assistant</h3>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <strong>Girls Who Code - Remote</strong>
+        <span style="font-style: italic; color: gray;">May 2024 - July 2024</span>
+    </div>
+</div>
+<p>
+    As a Lead Teaching Assistant for the Girls Who Code Summer Immersion Program, I taught interactive daily lessons in p5.js that introduced programming fundamentals and game development principles to 60+ high school students from historically underrepresented backgrounds in tech. I also delivered individualized feedback on student work to support technical growth and encourage creative problem-solving. I provided consistent mentorship and support to my advisory through personal check-ins, collaborative activities, and student hours to foster an inclusive classroom environment!
+</p>
 
 <br>
 
@@ -112,20 +127,6 @@ Expected Graduation: May 2026
 </p>
 
 <br>
-
-<div style="margin-bottom: 10px;">
-    <h3 style="margin: 0; font-weight: bold;">Teaching Assistant</h3>
-    <div style="display: flex; justify-content: space-between; align-items: center;">
-        <strong>Girls Who Code - Remote</strong>
-        <span style="font-style: italic; color: gray;">May 2024 - July 2024</span>
-    </div>
-</div>
-<p>
-    As a Teaching Assistant for the Girls Who Code Summer Immersion Program, I managed 60 students in my classroom and evaluated student work daily, sharing personalized constructive feedback to support their growth and understanding of game development concepts. I also provided individualized support and mentorship to students, addressing their questions and concerns both during class and asynchronously to foster a positive and inclusive learning environment. Additionally, I facilitated breakout rooms, provided guidance during advisory, and hosted student hours to enhance their learning!
-</p>
-
-<br>
-
 
 <div style="margin-bottom: 10px;">
     <h3 style="margin: 0; font-weight: bold;">Co-Director</h3>
@@ -162,7 +163,7 @@ Expected Graduation: May 2026
 
 <br>
 
-### **Gamify** - Java, HTML, CSS, and JavaScript
+### **Gamify** - Java, HTML, CSS, Node.js, and Vue.js
 - Conceptualized and developed a digital framework for life task management, applying game design principles to enhance
 user engagement and productivity
 - Implemented a quantifiable progress tracking system, utilizing data visualization to provide users with tangible feedback
@@ -176,7 +177,7 @@ user engagement and productivity
 
 <br>
 
-### **Melodify** - Python, HTML, CSS, and JavaScript
+### **Melodify** - Python (Flask, PyTorch, & NumPy), HTML, CSS, and JavaScript
 - Used AI to create custom music from text prompts and delivers personalized song recommendations based on your unique listening history and preferences, making music discovery effortless
 - Enhanced traditional music streaming apps with built-in music creation tools, allowing listeners to seamlessly transition from enjoying music to creating their own
 - Developed and led by a Women in CS team which I was the project manager of from initial concept through final presentation, demonstrating innovative integration of AI technology in music streaming
@@ -219,8 +220,8 @@ user engagement and productivity
 <br>
 
 ## **Skills**
-- **Programming Languages:** C/C++, Java, Python, HTML/CSS, JavaScript, Assembly, React, Verilog, LaTex 
-- **Tools & Technologies:** Google Workspace, GitHub, VS Code, Docker, AWS, Azure, Cloudflare, AI, Unity
+- **Programming Languages:** C/C++, Java, Python, HTML/CSS, JavaScript, Assembly, C#, React
+- **Tools & Technologies:** Google Workspace, GitHub, VS Code, Docker, AI, Unity, AWS, Azure, Cloudflare
 - **Technical Applications:** Website Development, Game Development, Cybersecurity, Robotics, and Data Science 
 - **Multilingual:** English, Spanish, Assyrian 
 
