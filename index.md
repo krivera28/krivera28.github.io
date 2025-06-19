@@ -81,7 +81,6 @@
 <br>
 
 ## **Education**
-<br>
 ### **University of Illinois Urbana-Champaign**  
 _Bachelor of Science in Computer Science with a Minor in Game Studies and Design_  
 May 2027  
@@ -97,10 +96,6 @@ May 2027
 <br>
 
 ## **Experience**
-
-
-
-<br>
 
 <div style="margin-bottom: 10px;">
     <h3 style="margin: 0; font-weight: bold;">Teaching Assistant</h3>
