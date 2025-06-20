@@ -101,7 +101,7 @@ May 2027
     <h3 style="margin: 0; font-weight: bold;">Teaching Assistant</h3>
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <strong>Girls Who Code - Remote</strong>
-        <span style="font-style: italic; color: gray;">May 2024 - July 2024</span>
+        <span style="font-style: italic; color: gray;">June 2025 - Present & May 2024 - Aug 2024</span>
     </div>
 </div>
 <p>
