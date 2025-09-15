@@ -98,19 +98,6 @@ May 2027
 ## **Experience**
 
 <div style="margin-bottom: 10px;">
-    <h3 style="margin: 0; font-weight: bold;">Teaching Assistant</h3>
-    <div style="display: flex; justify-content: space-between; align-items: center;">
-        <strong>Girls Who Code - Remote</strong>
-        <span style="font-style: italic; color: gray;">June 2025 - Present & May 2024 - Aug 2024</span>
-    </div>
-</div>
-<p>
-    As a Lead Teaching Assistant for the Girls Who Code Summer Immersion Program, I taught interactive daily lessons in p5.js that introduced programming fundamentals and game development principles to 60+ high school students from historically underrepresented backgrounds in tech. I also delivered individualized feedback on student work to support technical growth and encourage creative problem-solving. I provided consistent mentorship and support to my advisory through personal check-ins, collaborative activities, and student hours to foster an inclusive classroom environment!
-</p>
-
-<br>
-
-<div style="margin-bottom: 10px;">
     <h3 style="margin: 0; font-weight: bold;">Infrastructure Chair</h3>
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <strong>Association for Computing Machinery — Urbana, IL</strong>
@@ -122,6 +109,21 @@ May 2027
 </p>
 
 <br>
+
+
+<div style="margin-bottom: 10px;">
+    <h3 style="margin: 0; font-weight: bold;">Teaching Assistant</h3>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <strong>Girls Who Code - Remote</strong>
+        <span style="font-style: italic; color: gray;">June 2025 - Aug 2025 & May 2024 - Aug 2024</span>
+    </div>
+</div>
+<p>
+    As a Lead Teaching Assistant for the Girls Who Code Summer Immersion Program, I taught interactive daily lessons in p5.js that introduced programming fundamentals and game development principles to 60+ high school students from historically underrepresented backgrounds in tech. I also delivered individualized feedback on student work to support technical growth and encourage creative problem-solving. I provided consistent mentorship and support to my advisory through personal check-ins, collaborative activities, and student hours to foster an inclusive classroom environment!
+</p>
+
+<br>
+
 
 <div style="margin-bottom: 10px;">
     <h3 style="margin: 0; font-weight: bold;">Co-Director</h3>
