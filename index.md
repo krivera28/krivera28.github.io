@@ -95,21 +95,7 @@ May 2027
 
 <br>
 
-## **Experience**
-
-<div style="margin-bottom: 10px;">
-    <h3 style="margin: 0; font-weight: bold;">Infrastructure Chair</h3>
-    <div style="display: flex; justify-content: space-between; align-items: center;">
-        <strong>Association for Computing Machinery — Urbana, IL</strong>
-        <span style="font-style: italic; color: gray;">September 2024 - Present</span>
-    </div>
-</div>
-<p>
-    As Infrastructure Chair at ACM, I lead the development of the core management platform using React/TypeScript and AWS Lambda, delivering event management and membership services to 1000+ users with 99.9% uptime. I developed and implemented automated membership APIs to streamline access to internal services, resulting in 40% increase in paid memberships and simplified user authentication across all ACM platforms. Additionally, I established technical standards and best practices across various teams while modernizing ACM's platforms to improve user experience and operational efficiency.
-</p>
-
-<br>
-
+## **Work Experience**
 
 <div style="margin-bottom: 10px;">
     <h3 style="margin: 0; font-weight: bold;">Teaching Assistant</h3>
@@ -119,7 +105,26 @@ May 2027
     </div>
 </div>
 <p>
-    As a Lead Teaching Assistant for the Girls Who Code Summer Immersion Program, I taught interactive daily lessons in p5.js that introduced programming fundamentals and game development principles to 60+ high school students from historically underrepresented backgrounds in tech. I also delivered individualized feedback on student work to support technical growth and encourage creative problem-solving. I provided consistent mentorship and support to my advisory through personal check-ins, collaborative activities, and student hours to foster an inclusive classroom environment!
+    As a Lead Teaching Assistant at Girls Who Code, I had the opportunity to teach daily interactive lessons in p5.js, introducing programming fundamentals and game development principles to over 300 high school students from historically underrepresented backgrounds in tech. Beyond teaching, I provided personalized feedback on student projects to help them grow technically and creatively. I also built meaningful connections through one-on-one check-ins and group sessions, creating an inclusive and supportive learning environment that encouraged curiosity, confidence, and community!
+</p>
+
+<br>
+
+---
+
+<br>
+
+## **Leadership Experience**
+
+<div style="margin-bottom: 10px;">
+    <h3 style="margin: 0; font-weight: bold;">Infrastructure Chair</h3>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <strong>Association for Computing Machinery @ UIUC — Urbana, IL</strong>
+        <span style="font-style: italic; color: gray;">September 2024 - Present</span>
+    </div>
+</div>
+<p>
+    As Infrastructure Chair for ACM at UIUC, I led the development of the organization’s internal management platform using React, TypeScript, and AWS Lambda, improving reliability to 99.9% uptime and enhancing the experience for over 1,000 members. I implemented organization-wide technical standards and deployment pipelines across seven development teams, ensuring smoother collaboration and scalability. Currently, I’m overseeing a full UX redesign of ACM’s website to make it more intuitive and accessible, addressing long-standing discoverability issues and helping members more easily navigate events, resources, and tools!
 </p>
 
 <br>
@@ -133,7 +138,7 @@ May 2027
     </div>
 </div>
 <p>
-    As the Co-Director of HackIllinois, the largest student-run hackathon in the Midwest, I led the planning of this event by managing over 50 staff members in coordinating various event aspects for over 800 participants. To accomplish this, I fostered a sense of community among staff through team-building activities to ensure successful collaboration. I was also responsible for managing the event budget, determining the effective allocation of resources to maximize the success of the event!
+    As Co-Director of HackIllinois, the largest student-run hackathon in the Midwest, I led a 50+ person team to plan and execute an event that brought together over 800 participants. I introduced structured weekly goal-tracking and cross-team discussions to keep progress on schedule and ensure smooth collaboration across all departments. Beyond logistics, I focused on fostering a strong sense of community through mentorship and team-building initiatives, helping maintain high engagement and enthusiasm from staff throughout the event cycle!
 </p>
 
 <br>
