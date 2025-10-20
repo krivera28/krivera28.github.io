@@ -98,7 +98,7 @@ May 2027
 ## **Work Experience**
 
 <div style="margin-bottom: 10px;">
-    <h3 style="margin: 0; font-weight: bold;">Teaching Assistant</h3>
+    <h3 style="margin: 0; font-weight: bold;">Lead Teaching Assistant</h3>
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <strong>Girls Who Code - Remote</strong>
         <span style="font-style: italic; color: gray;">June 2025 - Aug 2025 & May 2024 - Aug 2024</span>
