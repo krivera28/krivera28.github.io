@@ -180,9 +180,12 @@ user engagement and productivity
 <br>
 
 ### **Melodify** - Python (Flask, PyTorch, & NumPy), HTML, CSS, and JavaScript
-- Used AI to create custom music from text prompts and delivers personalized song recommendations based on your unique listening history and preferences, making music discovery effortless
-- Enhanced traditional music streaming apps with built-in music creation tools, allowing listeners to seamlessly transition from enjoying music to creating their own
-- Developed and led by a Women in CS team which I was the project manager of from initial concept through final presentation, demonstrating innovative integration of AI technology in music streaming
+- Created a web app that makes custom music from text prompts and delivers personalized song recommendations based on
+listening history and preferences
+- Integrated ChatGPT AI’s natural language processing to interpret mood, genre, and emotional tone from user input, feeding
+data into a PyTorch model for custom audio generation
+- Streamlined team communication through regular syncs, retrospectives, and progress documentation, which improved
+development velocity and reduced cross-team blockers
   
 <a href="https://github.com/krivera28/melodify-my-copy" style="text-decoration: none;">
     <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
@@ -222,8 +225,8 @@ user engagement and productivity
 <br>
 
 ## **Skills**
-- **Programming Languages:** C/C++, Java, Python, HTML/CSS, JavaScript, Assembly, C#, React
-- **Tools & Technologies:** Google Workspace, GitHub, VS Code, Docker, AI, Unity, AWS, Azure, Cloudflare
+- **Programming Languages:** C/C++, Java, Python, HTML/CSS, JavaScript, Assembly, C#
+- **Tools & Technologies:** GitHub, Docker, Unity, AWS, Azure, Cloudflare
 - **Technical Applications:** Website Development, Game Development, Cybersecurity, Robotics, and Data Science 
 - **Multilingual:** English, Spanish, Assyrian 
 
