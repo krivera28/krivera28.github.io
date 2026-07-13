@@ -134,7 +134,7 @@ May 2027
     <h3 style="margin: 0; font-weight: bold;">Infrastructure Chair</h3>
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <strong>Association for Computing Machinery @ UIUC — Urbana, IL</strong>
-        <span style="font-style: italic; color: gray;">September 2024 - Present</span>
+        <span style="font-style: italic; color: gray;">September 2024 - January 2026</span>
     </div>
 </div>
 <p>
