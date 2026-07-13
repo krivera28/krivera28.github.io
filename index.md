@@ -39,7 +39,7 @@
     <div style="flex: 2; min-width: 250px;">
         <h1><strong>Hi, I'm Kaylani!</strong></h1>
         <p>
-            I'm a student at the University of Illinois Urbana-Champaign pursuing my Bachelor's in Computer Science with a minor in Game Studies & Design. I'm passionate about increasing diversity across the field of Computer Science, with a particular interest in video games, AI, and other innovative areas. Nationally recognized for my aspirations in technology, I aim to make my dreams a reality by being the first in my family to graduate from college. Feel free to reach out to chat!
+            I'm a Computer Science student at the University of Illinois Urbana-Champaign passionate about building technology that improves how people interact with the world around them and increasing diversity in the field. My experience spans various CS fields, but I'm particularly interested in opportunities in product management, frontend engineering, project management, UI/UX design, and human-computer interaction. Feel free to reach out to chat and learn more about me from my LinkedIn or by emailing me!
         </p>
 
     <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -98,6 +98,20 @@ May 2027
 ## **Work Experience**
 
 <div style="margin-bottom: 10px;">
+    <h3 style="margin: 0; font-weight: bold;">Summer Analyst - Controllers Software Engineering Intern</h3>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <strong>Goldman Sachs — New York, NY</strong>
+        <span style="font-style: italic; color: gray;">June 2026 - August 2026</span>
+    </div>
+</div>
+
+<p>
+    As a Software Engineering Summer Analyst on the Controllers team at Goldman Sachs, I implemented a Kafka-based producer-consumer pipeline in Java that consolidated hundreds of financial exception processing jobs into a few batch operations, reducing alert volume from hundreds to single digits during downstream service outages. I also automated the quarterly regulatory fund scoping process to identify in-scope investment funds across multiple data sources and consolidate separate manual processes into a single workflow, increasing reporting efficiency and accuracy. Additionally, I coordinated Kafka provisioning and security approvals with cross-functional teams to unblock critical CI/CD deployments.
+</p>
+
+<br>
+
+<div style="margin-bottom: 10px;">
     <h3 style="margin: 0; font-weight: bold;">Lead Teaching Assistant</h3>
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <strong>Girls Who Code - Remote</strong>
@@ -105,7 +119,7 @@ May 2027
     </div>
 </div>
 <p>
-    As a Lead Teaching Assistant at Girls Who Code, I had the opportunity to teach daily interactive lessons in p5.js, introducing programming fundamentals and game development principles to over 300 high school students from historically underrepresented backgrounds in tech. Beyond teaching, I provided personalized feedback on student projects to help them grow technically and creatively. I also built meaningful connections through one-on-one check-ins and group sessions, creating an inclusive and supportive learning environment that encouraged curiosity, confidence, and community!
+    As a Lead Teaching Assistant for Girls Who Code, I taught interactive daily lessons using JavaScript's p5.js library on programming fundamentals and game development principles to more than 300 high school students. I continuously evolved the curriculum to better match student needs, contributing to a 94% project completion rate. Beyond instruction, I mentored students through check-ins, feedback sessions, and collaborative activities designed to improve retention, confidence, and engagement with computer science!
 </p>
 
 <br>
@@ -124,7 +138,7 @@ May 2027
     </div>
 </div>
 <p>
-    As Infrastructure Chair for ACM at UIUC, I led the development of the organization’s internal management platform using React, TypeScript, and AWS Lambda, improving reliability to 99.9% uptime and enhancing the experience for over 1,000 members. I implemented organization-wide technical standards and deployment pipelines across seven development teams, ensuring smoother collaboration and scalability. Currently, I’m overseeing a full UX redesign of ACM’s website to make it more intuitive and accessible, addressing long-standing discoverability issues and helping members more easily navigate events, resources, and tools!
+    As Infrastructure Chair for ACM at UIUC, I directed the development of ACM's internal management platform using React, TypeScript, and AWS Lambda, improving reliability to 99.9% uptime while delivering internal resources to more than 1,000 members. I led UX redesign initiatives by gathering member feedback, identifying usability improvements, and collaborating with developers to improve discoverability across ACM resources. These efforts increased resource engagement by 26% and active membership by 14%. I also established Agile/Scrum workflows and CI/CD processes across seven teams, improving coordination and streamlining release cycles.
 </p>
 
 <br>
@@ -138,7 +152,7 @@ May 2027
     </div>
 </div>
 <p>
-    As Co-Director of HackIllinois, the largest student-run hackathon in the Midwest, I led a 50+ person team to plan and execute an event that brought together over 800 participants. I introduced structured weekly goal-tracking and cross-team discussions to keep progress on schedule and ensure smooth collaboration across all departments. Beyond logistics, I focused on fostering a strong sense of community through mentorship and team-building initiatives, helping maintain high engagement and enthusiasm from staff throughout the event cycle!
+    As Co-Director of HackIllinois, I led more than 50 staff members in planning and executing the Midwest's largest student-run hackathon, serving more than 800 participants. I established weekly roadmap reviews and cross-team meetings to improve alignment across teams and accelerate milestone completion throughout the planning process. Additionally, I coordinated event budgeting, logistics, and execution with corporate partners, contributing to a 53% increase in sponsorship prizes.
 </p>
 
 <br>
@@ -153,9 +167,9 @@ May 2027
 <br>
 
 ### **Recipe Sorter** - HTML, CSS, and JavaScript
-- Developed a data-driven recipe organization system, leveraging a spreadsheet foundation to create a searchable database
-- Implemented advanced filtering and sorting algorithms to efficiently categorize and retrieve recipes based on attributes
-- Designed a scalable architecture by using Google Apps Script to automatically update data when the app is loaded
+- Built a data-driven recipe management platform to simplify organization and discovery through real-time search and filtering
+- Implemented dynamic filtering and sorting features based on user feedback to improve usability and personalization
+- Automated data synchronization using Google Apps Script, eliminating manual updates and reducing maintenance overhead
 
 <a href="https://replit.com/@QueenKay1/Recipe-Sorter" style="text-decoration: none;">
     <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
@@ -165,11 +179,10 @@ May 2027
 
 <br>
 
-### **Gamify** - Java, HTML, CSS, Node.js, and Vue.js
-- Conceptualized and developed a digital framework for life task management, applying game design principles to enhance
-user engagement and productivity
-- Implemented a quantifiable progress tracking system, utilizing data visualization to provide users with tangible feedback
-- Engineered a flexible task categorization structure, allowing for customizable ”quests” to accommodate diverse lifestyles
+### **Gamify** - Java, HTML, CSS, TypeScript, Node.js, and Vue.js
+- Designed and developed a productivity web app that gamifies daily task management, encouraging long-term engagement
+- Created a dynamic progress tracking system that visualizes user achievements through real-time data updates and rewards
+- Managed project milestones, task delegation, and feature integration to deliver a cohesive user experience
   
 <a href="https://github.com/krivera28/gamify" style="text-decoration: none;">
     <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
@@ -179,44 +192,17 @@ user engagement and productivity
 
 <br>
 
-### **Melodify** - Python (Flask, PyTorch, & NumPy), HTML, CSS, and JavaScript
-- Created a web app that makes custom music from text prompts and delivers personalized song recommendations based on
-listening history and preferences
-- Integrated ChatGPT AI’s natural language processing to interpret mood, genre, and emotional tone from user input, feeding
-data into a PyTorch model for custom audio generation
-- Streamlined team communication through regular syncs, retrospectives, and progress documentation, which improved
-development velocity and reduced cross-team blockers
-  
-<a href="https://github.com/krivera28/melodify-my-copy" style="text-decoration: none;">
+### **Whisper From the Forest** - Unreal Engine Blueprints
+- Designed gameplay systems and level progression, balancing exploration, pacing, and difficulty to improve player engagement
+- Conducted playtesting sessions and incorporated player feedback to iterate on mechanics, usability, and overall experience
+
+<a href="https://github.com/HansMang/WhisperFromTheForest" style="text-decoration: none;">
     <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         View Project
     </button>
 </a>
 
 <br>
-
-### **Casino Simulator** - Java
-- Utilized Java to make a gambling simulator where players wager money to guess randomly generated winning numbers, with their balance updating in real-time based on their success or failure
-- Featured an innovative shuffle mechanic that allows players to reshuffle numbers at will, while automatically triggering a shuffle after 10 rounds to maintain game fairness
-- Incorporated strategic gameplay elements with clear win/lose conditions, ending when players either deplete their funds or reach a predetermined winning threshold
-  
-<a href="https://replit.com/@krivera30/Roottech-Gambling-Game-" style="text-decoration: none;">
-    <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
-        View Project
-    </button>
-</a>
-
-<br>
-
-### **Go Fish Simulator** - Python
-- Created an AI algorithm for bot players, employing array-based data structures and search algorithms to mimic human-like decision-making in card selection and matching
-- Devised an efficient card management system, utilizing custom functions to parse and manipulate card attributes for streamlined gameplay and scoring mechanisms
-  
-<a href="[https://github.com/krivera28](https://replit.com/@krivera30/Roottech-Final-Project#main.py)" style="text-decoration: none;">
-    <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
-        View Project
-    </button>
-</a>
 
 <br>
 
@@ -225,10 +211,9 @@ development velocity and reduced cross-team blockers
 <br>
 
 ## **Skills**
-- **Programming Languages:** C/C++, Java, Python, HTML/CSS, JavaScript, Assembly, C#
-- **Tools & Technologies:** GitHub, Docker, Unity, AWS, Azure, Cloudflare
-- **Technical Applications:** Website Development, Game Development, Cybersecurity, Robotics, and Data Science 
-- **Multilingual:** English, Spanish, Assyrian 
+- **Programming Languages & Libraries:** C/C++, Java, Python, HTML/CSS, JavaScript, NumPy, Pandas, p5.js
+- **Tools:** Git/GitHub, VS Code, IntelliJ, Docker, Notion, Canva, Figma, Jira, Confluence, Unreal Engine, Unity, Devin, Excel
+- **Technical Interests:** Product Management, Project Management, Frontend Development, UI/UX Design, Human-Computer Interaction (HCI), Game Development, Website Development, Software Engineering
 
 <br>
 
