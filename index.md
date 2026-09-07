@@ -98,6 +98,20 @@ May 2027
 ## **Work Experience**
 
 <div style="margin-bottom: 10px;">
+    <h3 style="margin: 0; font-weight: bold;">Course Assistant - CS 415: Game Development</h3>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <strong>University of Illinois Urbana-Champaign</strong>
+        <span style="font-style: italic; color: gray;">August 2026 - Present</span>
+    </div>
+</div>
+
+<p>
+    As a Course Assistant for CS 415: Game Development, I support hundreds of students developing games in Unreal Engine by hosting office hours and troubleshooting technical, gameplay, and design challenges. I evaluate student projects and provide actionable feedback on technical implementation, gameplay functionality, and design. I also develop exam questions and collaborate with other course staff to identify student learning gaps, address recurring development challenges, and align grading standards.
+</p>
+
+<br>
+
+<div style="margin-bottom: 10px;">
     <h3 style="margin: 0; font-weight: bold;">Summer Analyst - Controllers Software Engineering Intern</h3>
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <strong>Goldman Sachs — New York, NY</strong>
