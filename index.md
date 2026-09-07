@@ -85,9 +85,10 @@
 _Bachelor of Science in Computer Science with a Minor in Game Studies and Design_  
 May 2027  
 - GPA: 3.8/4.0
-- Relevant coursework: Data Structures, System Programming, Algorithms, Computer Architecture, Discrete Structures, Linear Algebra, Computer Graphics
-- Clubs: Association for Computing Machinery, HackIllinois, Women in Computer Science, Adventure Club
-- Honors: James Scholar, President’s Award Program Scholarship, State Farm Computer Science Scholarship
+- Relevant coursework: Web Programming, Interactive Computer Graphics, Game Development, Data Structures, Systems Programming, Algorithms & Models of Computation, Computer Architecture, Programming Languages & Compilers
+- Honors: Dean’s List, James Scholar, President’s Award Program Scholarship, State Farm Computer Science Scholarship
+- Campus Involvement: ACM@UIUC (Infrastructure Chair & Social Lead), HackIllinois (Co-Director), BUILT by Colorstack
+(Social Director), Adventure Club (Membership Director), Women in Computer Science (social team)
 
 <br>
 
@@ -120,7 +121,7 @@ May 2027
 </div>
 
 <p>
-    As a Software Engineering Summer Analyst on the Controllers team at Goldman Sachs, I implemented a Kafka-based producer-consumer pipeline in Java that consolidated hundreds of financial exception processing jobs into a few batch operations, reducing alert volume from hundreds to single digits during downstream service outages. I also automated the quarterly regulatory fund scoping process to identify in-scope investment funds across multiple data sources and consolidate separate manual processes into a single workflow, increasing reporting efficiency and accuracy. Additionally, I coordinated Kafka provisioning and security approvals with cross-functional teams to unblock critical CI/CD deployments.
+    As a Software Engineering Summer Analyst on the Controllers team at Goldman Sachs, I implemented a Kafka-based producer-consumer pipeline in Java that consolidated hundreds of financial exception processing jobs into a few batch operations, reducing alert volume from hundreds to single digits during downstream service outages. I also automated the quarterly regulatory fund scoping process using AI to identify in-scope investment funds across multiple data sources and consolidate separate manual processes into a single workflow, increasing reporting efficiency and accuracy. Additionally, I coordinated Kafka provisioning and security approvals with cross-functional teams to unblock critical CI/CD deployments.
 </p>
 
 <br>
@@ -225,9 +226,10 @@ May 2027
 <br>
 
 ## **Skills**
-- **Programming Languages & Libraries:** C/C++, Java, Python, HTML/CSS, JavaScript, NumPy, Pandas, p5.js
-- **Tools:** Git/GitHub, VS Code, IntelliJ, Docker, Notion, Canva, Figma, Jira, Confluence, Unreal Engine, Unity, Devin, Excel
-- **Technical Interests:** Product Management, Project Management, Frontend Development, UI/UX Design, Human-Computer Interaction (HCI), Game Development, Website Development, Software Engineering
+- **Programming Languages & Libraries:** C/C++, Java, Python, HTML/CSS, JavaScript, p5.js, Numpy, Pandas, SciPy
+- **Tools:** Git/GitHub, Jira, Confluence, VS Code, IntelliJ, Docker, Notion, Canva, Figma, Unreal Engine, Unity, Devin, Excel, LaTex
+- **Technical Interests:** Product Management, Project Management, Frontend Development, UI/UX Design, Human-Computer
+Interaction (HCI), Game Development, Website Development, Software Engineering
 
 <br>
 
