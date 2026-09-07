@@ -98,9 +98,9 @@ May 2027
 ## **Work Experience**
 
 <div style="margin-bottom: 10px;">
-    <h3 style="margin: 0; font-weight: bold;">Course Assistant - CS 415: Game Development</h3>
+    <h3 style="margin: 0; font-weight: bold;">University of Illinois Urbana-Champaign</h3>
     <div style="display: flex; justify-content: space-between; align-items: center;">
-        <strong>University of Illinois Urbana-Champaign</strong>
+        <strong>Course Assistant - CS 415: Game Development</strong>
         <span style="font-style: italic; color: gray;">August 2026 - Present</span>
     </div>
 </div>
@@ -112,9 +112,9 @@ May 2027
 <br>
 
 <div style="margin-bottom: 10px;">
-    <h3 style="margin: 0; font-weight: bold;">Summer Analyst - Controllers Software Engineering Intern</h3>
+    <h3 style="margin: 0; font-weight: bold;">Goldman Sachs — New York, NY</h3>
     <div style="display: flex; justify-content: space-between; align-items: center;">
-        <strong>Goldman Sachs — New York, NY</strong>
+        <strong>Summer Analyst - Controllers Software Engineering Intern</strong>
         <span style="font-style: italic; color: gray;">June 2026 - August 2026</span>
     </div>
 </div>
@@ -126,9 +126,9 @@ May 2027
 <br>
 
 <div style="margin-bottom: 10px;">
-    <h3 style="margin: 0; font-weight: bold;">Lead Teaching Assistant</h3>
+    <h3 style="margin: 0; font-weight: bold;">Girls Who Code - Remote</h3>
     <div style="display: flex; justify-content: space-between; align-items: center;">
-        <strong>Girls Who Code - Remote</strong>
+        <strong>Lead Teaching Assistant</strong>
         <span style="font-style: italic; color: gray;">June 2025 - Aug 2025 & May 2024 - Aug 2024</span>
     </div>
 </div>
