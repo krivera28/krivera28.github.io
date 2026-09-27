@@ -186,7 +186,7 @@ May 2027
 - Implemented dynamic filtering and sorting features based on user feedback to improve usability and personalization
 - Automated data synchronization using Google Apps Script, eliminating manual updates and reducing maintenance overhead
 
-<a href="https://replit.com/@QueenKay1/Recipe-Sorter" style="text-decoration: none;">
+<a href="https://krivera28.github.io/Recipe_Sorter/" style="text-decoration: none;">
     <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         View Project
     </button>
