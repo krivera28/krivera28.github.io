@@ -39,7 +39,7 @@
     <div style="flex: 2; min-width: 250px;">
         <h1><strong>Hi, I'm Kaylani!</strong></h1>
         <p>
-            I'm a Computer Science student at the University of Illinois Urbana-Champaign passionate about building technology that improves how people interact with the world around them and increasing diversity in the field. My experience spans various CS fields, but I'm particularly interested in opportunities in product management, frontend engineering, project management, UI/UX design, and human-computer interaction. Feel free to reach out to chat and learn more about me from my LinkedIn or by emailing me!
+            I’m a Computer Science student at the University of Illinois Urbana-Champaign interested in technology that makes people’s lives easier and improves how we interact with the world around us. Through my experiences in software engineering, student organizations, and teaching, I’ve gotten to explore different areas of CS and work with people who bring different perspectives and ideas. I’m also very passionate about increasing diversity in tech and helping more people feel welcome in the field. I’m always happy to connect, talk about what I’m working on, or learn about what others are doing! You can learn more about me through my LinkedIn profile or below.
         </p>
 
     <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -85,10 +85,9 @@
 _Bachelor of Science in Computer Science with a Minor in Game Studies and Design_  
 May 2027  
 - GPA: 3.8/4.0
-- Relevant coursework: Web Programming, Interactive Computer Graphics, Game Development, Data Structures, Systems Programming, Algorithms & Models of Computation, Computer Architecture, Programming Languages & Compilers
-- Honors: Dean’s List, James Scholar, President’s Award Program Scholarship, State Farm Computer Science Scholarship
-- Campus Involvement: ACM@UIUC (Infrastructure Chair & Social Lead), HackIllinois (Co-Director), BUILT by Colorstack
-(Social Director), Adventure Club (Membership Director), Women in Computer Science (social team)
+- Relevant coursework: Interactive Computer Graphics, Game Development, Data Structures, Systems Programming, Algorithms & Models of Computation, Computer Architecture, Programming Languages & Compilers
+- Honors: Dean’s List, James Scholar, Legacy Learning & Service Scholarship, State Farm Computer Science Scholarship
+- Campus Involvement: ACM@UIUC (Infrastructure Chair & Social Lead), HackIllinois (Co-Director), BUILT by Colorstack (Social Director), Adventure Club (Membership Director), Women in Computer Science (social team)
 
 <br>
 
@@ -107,7 +106,7 @@ May 2027
 </div>
 
 <p>
-    As a Course Assistant for CS 415: Game Development, I support hundreds of students developing games in Unreal Engine by hosting office hours and troubleshooting technical, gameplay, and design challenges. I evaluate student projects and provide actionable feedback on technical implementation, gameplay functionality, and design. I also develop exam questions and collaborate with other course staff to identify student learning gaps, address recurring development challenges, and align grading standards.
+    As a Course Assistant for CS 415: Game Development, I support hundreds of students developing games in Unreal Engine by troubleshooting technical, gameplay, and design challenges through office hours and individual guidance. I evaluate student projects and provide actionable feedback on technical implementation, functionality, and UI/UX design. I also collaborate with course staff to identify recurring student challenges and learning gaps, informing exam questions, course improvements, and grading standards.
 </p>
 
 <br>
@@ -121,7 +120,7 @@ May 2027
 </div>
 
 <p>
-    As a Software Engineering Summer Analyst on the Controllers team at Goldman Sachs, I implemented a Kafka-based producer-consumer pipeline in Java that consolidated hundreds of financial exception processing jobs into a few batch operations, reducing alert volume from hundreds to single digits during downstream service outages. I also automated the quarterly regulatory fund scoping process using AI to identify in-scope investment funds across multiple data sources and consolidate separate manual processes into a single workflow, increasing reporting efficiency and accuracy. Additionally, I coordinated Kafka provisioning and security approvals with cross-functional teams to unblock critical CI/CD deployments.
+    As a Software Engineering Summer Analyst on the Controllers revenue team at Goldman Sachs, I built a Kafka-based Java pipeline to consolidate hundreds of financial exception calculations into a few batch operations, reducing alert volume from hundreds to single digits during downstream service outages. I also automated the quarterly regulatory fund scoping process with AI to consolidate data from multiple sources and processes into a single workflow, increasing reporting efficiency and accuracy. During my job functions, I coordinated cross-functional teams through Kafka provisioning and security approval to unblock critical CI/CD deployments.
 </p>
 
 <br>
@@ -134,7 +133,7 @@ May 2027
     </div>
 </div>
 <p>
-    As a Lead Teaching Assistant for Girls Who Code, I taught interactive daily lessons using JavaScript's p5.js library on programming fundamentals and game development principles to more than 300 high school students. I continuously evolved the curriculum to better match student needs, contributing to a 94% project completion rate. Beyond instruction, I mentored students through check-ins, feedback sessions, and collaborative activities designed to improve retention, confidence, and engagement with computer science!
+    As a Lead Teaching Assistant for Girls Who Code, I taught programming and game development concepts through interactive daily lessons in p5.js to 300+ high school students, adapting the curriculum to match student needs and achieving 94% project completion. I mentored students through check-ins, feedback, and collaborative sessions to improve retention, confidence, and engagement!
 </p>
 
 <br>
@@ -153,7 +152,7 @@ May 2027
     </div>
 </div>
 <p>
-    As Infrastructure Chair for ACM at UIUC, I directed the development of ACM's internal management platform using React, TypeScript, and AWS Lambda, improving reliability to 99.9% uptime while delivering internal resources to more than 1,000 members. I led UX redesign initiatives by gathering member feedback, identifying usability improvements, and collaborating with developers to improve discoverability across ACM resources. These efforts increased resource engagement by 26% and active membership by 14%. I also established Agile/Scrum workflows and CI/CD processes across seven teams, improving coordination and streamlining release cycles.
+    As Infrastructure Chair for ACM at UIUC, I led the development of ACM’s internal management platform serving 1,000+ members, translating organizational needs into product improvements and achieving 99.9% uptime using React, TypeScript, and AWS Lambda. I gathered member feedback to identify usability improvements and led UX redesigns in collaboration with developers, increasing resource engagement by 26% and active membership by 14%. I also established Agile/Scrum and CI/CD processes across seven teams, improving coordination and streamlining release cycles.
 </p>
 
 <br>
@@ -167,7 +166,7 @@ May 2027
     </div>
 </div>
 <p>
-    As Co-Director of HackIllinois, I led more than 50 staff members in planning and executing the Midwest's largest student-run hackathon, serving more than 800 participants. I established weekly roadmap reviews and cross-team meetings to improve alignment across teams and accelerate milestone completion throughout the planning process. Additionally, I coordinated event budgeting, logistics, and execution with corporate partners, contributing to a 53% increase in sponsorship prizes.
+    As Co-Director of HackIllinois, I led 50+ staff members in planning and executing the Midwest's largest student-run hackathon, serving 800+ participants. I established weekly roadmap reviews and cross-team meetings to improve alignment and accelerate milestone completion. I managed event budget, logistics, and corporate partnerships, leading to a 53% increase in sponsorship prizes.
 </p>
 
 <br>
@@ -182,9 +181,9 @@ May 2027
 <br>
 
 ### **Recipe Sorter** - HTML, CSS, and JavaScript
-- Built a data-driven recipe management platform to simplify organization and discovery through real-time search and filtering
-- Implemented dynamic filtering and sorting features based on user feedback to improve usability and personalization
-- Automated data synchronization using Google Apps Script, eliminating manual updates and reducing maintenance overhead
+- Built a data-driven recipe management platform focused on improving organization through real-time search and filtering
+- Implemented dynamic filtering and sorting functionality based on user feedback, improving usability and personalization
+- Automated data synchronization with Google Apps Script, eliminating manual updates and reducing maintenance overhead
 
 <a href="https://krivera28.github.io/Recipe_Sorter/" style="text-decoration: none;">
     <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
@@ -195,10 +194,10 @@ May 2027
 <br>
 
 ### **Gamify** - Java, HTML, CSS, TypeScript, Node.js, and Vue.js
-- Designed and developed a productivity web app that gamifies daily task management, encouraging long-term engagement
-- Created a dynamic progress tracking system that visualizes user achievements through real-time data updates and rewards
-- Managed project milestones, task delegation, and feature integration to deliver a cohesive user experience
-  
+- Designed and developed a productivity web app that uses gamification to encourage consistent task completion
+- Built a dynamic achievement-tracking system with real-time progress updates and rewards to support user engagement
+- Managed project milestones, task delegation, and feature integration across the development process
+
 <a href="https://github.com/krivera28/gamify" style="text-decoration: none;">
     <button style="background-color: #784B84; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         View Project
@@ -228,8 +227,6 @@ May 2027
 ## **Skills**
 - **Programming Languages & Libraries:** C/C++, Java, Python, HTML/CSS, JavaScript, p5.js, Numpy, Pandas, SciPy
 - **Tools:** Git/GitHub, Jira, Confluence, VS Code, IntelliJ, Docker, Notion, Canva, Figma, Unreal Engine, Unity, Devin, Excel, LaTex
-- **Technical Interests:** Product Management, Project Management, Frontend Development, UI/UX Design, Human-Computer
-Interaction (HCI), Game Development, Website Development, Software Engineering
 
 <br>
 
